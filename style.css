@@ -4,4 +4,10 @@ body {
 
 h1 {
     color: lime;
+    background-color: tomato;
+}
+
+h1:hover {
+    background-color: teal;
+    cursor: pointer;
 }
