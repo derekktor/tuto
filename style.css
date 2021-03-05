@@ -1,13 +1,13 @@
 body {
-    background-color: gold;
+    background-color: rgb(205, 191, 109);
 }
 
 h1 {
-    color: lime;
-    background-color: tomato;
+    color: rgb(138, 233, 138);
+    background-color: rgb(234, 170, 158);
 }
 
 h1:hover {
-    background-color: teal;
+    background-color: rgb(83, 124, 124);
     cursor: pointer;
 }
